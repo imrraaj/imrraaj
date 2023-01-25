@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @imrraaj
 - 👀 I’m interested in Computer Science 
 - 🌱 I’m currently learning Svelte and building projects
-- 💞️ I’m looking to collaborate on any web development project
 - 📫 How to reach me: [@Imrraaj](https://twitter.com/imrraaj)
 
 <!---
